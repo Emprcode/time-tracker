@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(lightblue, rgb(36, 168, 93));
+}
+
+.wrapper{
+    height: 100vh;
+    max-width: 1000px;
+    margin: auto;
+}
